@@ -7,6 +7,7 @@ import YouTubeDebugger from './components/YouTubeDebugger';
 ReactDOM.render(
   <div>
     <DigitalClicker />
+    <br></br>
     <YouTubeDebugger />
   </div>,
   document.getElementById('global')
